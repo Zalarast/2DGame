@@ -1,0 +1,12 @@
+.game {
+  height: 100vh;
+  background-color: gainsboro;
+  display: flex;
+}
+
+.model {
+    transition: all 0.2s;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
